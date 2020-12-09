@@ -244,7 +244,7 @@
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:13px;
+  font-size:20px;
   letter-spacing:normal;
   color:#000000;
   vertical-align:none;
@@ -263,7 +263,7 @@
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:13px;
+  font-size:20px;
   letter-spacing:normal;
   color:#000000;
   vertical-align:none;
@@ -289,6 +289,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:20px;
 }
 #u80 {
   border-width:0px;
@@ -298,6 +299,7 @@
   width:252px;
   height:44px;
   display:flex;
+  font-size:20px;
 }
 #u80 .text {
   position:absolute;
@@ -323,6 +325,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:20px;
 }
 #u80.disabled {
 }
